@@ -1,0 +1,27 @@
+[
+  {
+    "remote": "github",
+    "repository":  "ValidusOs-Devices/device_xiaomi_sdm845-common",
+    "target_path": "device/xiaomi/sdm845-common",
+    "branch": "9.0"
+  },
+  {
+    "remote": "github",
+    "repository": "GZR-Kernels/Optimus_Drunk_Beryllium",
+    "target_path": "kernel/xiaomi/sdm845",
+    "branch": "9.0"
+  },
+  {
+    "remote": "github",
+    "repository": "BigTopKrazies/vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "9.0"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-16.0"
+  }
+]
+

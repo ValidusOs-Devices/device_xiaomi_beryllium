@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/gzosp_beryllium.mk
+    $(LOCAL_DIR)/validus_beryllium.mk
 
 COMMON_LUNCH_CHOICES := \
-    gzosp_beryllium-user \
-    gzosp_beryllium-userdebug \
-    gzosp_beryllium-eng
+    validus_beryllium-user \
+    validus_beryllium-userdebug \
+    validus_beryllium-eng
